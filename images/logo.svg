@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204.457" height="74.28" viewBox="0 0 204.457 74.28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_3" data-name="Rechteck 3" width="52.524" height="26.262" transform="translate(0)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rechteck_4" data-name="Rechteck 4" width="52.524" height="26.262" transform="translate(52.524 26.262) rotate(180)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(-103 -47.364)">
+    <text id="Web24" transform="translate(103 99.445)" fill="#5a5a5a" font-size="37" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Web24</tspan></text>
+    <g id="Logo-2" data-name="Logo" transform="translate(233.177 47.364)">
+      <rect id="Rechteck_1" data-name="Rechteck 1" width="29.44" height="11.776" rx="5" transform="translate(25.357 52.715) rotate(-45)" fill="#7df2bf"/>
+      <rect id="Rechteck_2" data-name="Rechteck 2" width="29.44" height="11.776" rx="5" transform="translate(21.337 33.183) rotate(-45)" fill="#00c2ff"/>
+      <g id="Kreis" transform="translate(74.28 37.14) rotate(135)">
+        <g id="Gruppe_maskieren_1" data-name="Gruppe maskieren 1" transform="translate(52.524 26.262) rotate(180)" clip-path="url(#clip-path)">
+          <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(0 -26.262)" fill="none" stroke="#00c2ff" stroke-width="1">
+            <circle cx="26.262" cy="26.262" r="26.262" stroke="none"/>
+            <circle cx="26.262" cy="26.262" r="25.762" fill="none"/>
+          </g>
+        </g>
+        <g id="Gruppe_maskieren_2" data-name="Gruppe maskieren 2" transform="translate(52.524 52.524) rotate(180)" clip-path="url(#clip-path-2)">
+          <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(52.524 52.524) rotate(180)" fill="none" stroke="#7df2bf" stroke-width="1">
+            <circle cx="26.262" cy="26.262" r="26.262" stroke="none"/>
+            <circle cx="26.262" cy="26.262" r="25.762" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
