@@ -2,7 +2,7 @@
 
 This little project shows design and implementation of a fictional webhost.
 
-It is designed and build in Adobe XD including all assets, like the server illustration.
+It is designed in Adobe XD including all assets, like the server illustration.
 
 It is implemented with html, css3 and vanilla media queries for responsiveness.
 
